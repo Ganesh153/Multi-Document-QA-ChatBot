@@ -21,9 +21,7 @@ Built with **LangChain**, **Groq LLM**, **ChromaDB**, and **Streamlit**.
 
 - Research paper analysis  
 - Legal document review  
-- Technical documentation Q&A  
-- Educational content exploration  
-- Business document intelligence  
+- Technical documentation Q&A   
 - Meeting notes and reports analysis  
 
 ---
@@ -46,16 +44,14 @@ Built with **LangChain**, **Groq LLM**, **ChromaDB**, and **Streamlit**.
 
 - Python 3.8+
 - Groq API Key (free tier)
-- PDFs / DOCX / TXT files
-
+- Supported Files: PDFs / DOCX / TXT files to be present in /docs folder.
 ---
 
 ## 🚀 Installation
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/multi-doc-chatbot.git
-cd multi-doc-chatbot
+git clone https://github.com/Ganesh153/Multi-Document-QA-ChatBot.git
 ```
 
 ### Create Virtual Environment
