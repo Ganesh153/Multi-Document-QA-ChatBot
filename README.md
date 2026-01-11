@@ -106,15 +106,12 @@ sentence-transformers>=2.2.0
 ```bash
 streamlit run multi_doc_chat.py
 ```
-
-Open: http://localhost:8501
-
 ---
 
 ## 📁 Project Structure
 
 ```
-multi-doc-chatbot/
+multi-docs-chatbot/
 ├── multi_doc_chat.py
 ├── load_docs.py
 ├── .env
@@ -124,20 +121,4 @@ multi-doc-chatbot/
 ├── chroma_db/
 └── .gitignore
 ```
-
----
-
-## 🛑 .gitignore
-
-```gitignore
-.env
-.venv/
-chroma_db/
-docs/
-__pycache__/
-*.pyc
-.DS_Store
-Thumbs.db
-```
-
 ---
