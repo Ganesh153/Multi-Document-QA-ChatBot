@@ -1,0 +1,29 @@
+# Vector databases
+chromadb>=1.4.0
+faiss-cpu>=1.13.2
+
+# Document loaders & parsing
+docx2txt>=0.9
+pypdf>=6.6.0
+
+# LangChain core ecosystem
+langchain>=1.2.3
+langchain-community>=0.4.1
+langchain-core>=1.2.7
+langchain-text-splitters>=1.1.0
+
+# LLM integrations
+langchain-groq>=1.1.1
+langchain-huggingface>=1.2.0
+openai>=2.15.0
+
+# Embeddings
+sentence-transformers>=5.2.0
+tiktoken>=0.12.0
+
+# App & UI
+streamlit>=1.52.2
+streamlit-chat>=0.1.1
+
+# Environment management
+python-dotenv>=1.2.1
